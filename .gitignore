@@ -1,2 +1,4 @@
 dataset/model.pkl
+dataset/mlp_model.pkl
+dataset/xgb_model.pkl
 dataset/connect4_uci.csv
